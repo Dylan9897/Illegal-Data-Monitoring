@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
--*- coding: utf-8 -*-
-@Author : dongdong
-@Time : 2022/12/5 10:06
-@Email : handong_xu@163.com
-"""
 import sys
 from PIL import Image
 
@@ -95,9 +88,6 @@ def forbiden(error):
     return jsonify(error=str(error)), 500
 
 if __name__ == '__main__':
-    # fun = api()
-    # path = "image/train/80f5667578236e1157708219e64e989bbfa4cd23.jpg"
-    # fun.predict_raw(path)
     app.run(host='0.0.0.0', port=5006)
 
 

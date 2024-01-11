@@ -1,6 +1,3 @@
-# @Time: 2022.11.8 19:45
-# @Author: Bolun Wu
-
 import os
 import sys
 

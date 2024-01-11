@@ -1,11 +1,3 @@
-"""
--*- coding: utf-8 -*-
-@Author : dongdong
-@Time : 2022/12/5 10:06
-@Email : handong_xu@163.com
-"""
-import sys
-sys.path.append('/mnt/d/结题提交/OOD/code')
 from PIL import Image
 
 from torchvision import transforms

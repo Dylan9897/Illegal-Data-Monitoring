@@ -1,10 +1,3 @@
-"""
--*- coding: utf-8 -*-
-
-@Author : dongdong
-@Time : 2022/12/5 10:42
-@Email : handong_xu@163.com
-"""
 import argparse
 import json
 import os

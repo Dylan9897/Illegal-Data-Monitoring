@@ -1,6 +1,3 @@
-# @Time: 2022.11.14 15:52
-# @Author: Bolun Wu
-
 import imghdr
 import os
 import sys

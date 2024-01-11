@@ -100,8 +100,6 @@ class MVTECProcess():
                         k+=1
             
 if __name__=="__main__":
-    # fun = DAGMProcess()
-    # fun._generate()
     fun = MVTECProcess()
     fun._generate()
 
